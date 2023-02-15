@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "perifericos.h": "c",
+        "sprites.h": "c",
+        "definiciones.h": "c",
+        "stdio.h": "c",
+        "rutinasatencion.h": "c"
+    }
+}

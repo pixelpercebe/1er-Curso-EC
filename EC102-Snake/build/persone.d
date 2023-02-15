@@ -1,0 +1,1 @@
+persone.o: persone.s

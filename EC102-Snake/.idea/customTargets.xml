@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="9768f09c-508c-4465-a9e8-5015d012a448" name="Make" defaultType="TOOL">
+      <configuration id="7ac1a5b7-0a68-4829-8b4d-5b5bf939db28" name="Make">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_BUILD_WITH_MAKE" />
+        </build>
+        <clean type="TOOL">
+          <tool actionId="Tool_External Tools_CLEAN_WITH_MAKE" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>

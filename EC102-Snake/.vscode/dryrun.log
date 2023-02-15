@@ -1,0 +1,8 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/Ivan/Desktop/Proyecto'
+ 
+[ -d build ] || mkdir -p build
+ 
+make --no-print-directory -C build -f /home/Ivan/Desktop/Proyecto/Makefile
+make: Leaving directory '/home/Ivan/Desktop/Proyecto'
+ 
